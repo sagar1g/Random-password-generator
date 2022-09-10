@@ -26,11 +26,11 @@
 
 >**Alogrithm**:-
 
-- [ ] Passowrd length input taken
+- [ ] From user length of password will be taken 
 
 - [ ] system generate random password according to password length
 
-- [ ] If password length not an integer it show message
+- [ ] If password length is  not an integer it show message
 
 > **conclusion**:- 
 
