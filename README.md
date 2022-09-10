@@ -1,4 +1,7 @@
-> RANDOM PASSWORD GENERATOR
+```mermaid
+flowchar LR
+id1{{random password generator}}
+```
 
 Brif introduction about this project
 
