@@ -1,5 +1,5 @@
 ```mermaid
-flowchar LR
+flowchart LR
 id1{{random password generator}}
 ```
 
