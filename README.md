@@ -16,6 +16,20 @@ Brif introduction about this project
 
 . if some how put a character then system not gonna provide you password
 
+
+> Dependencies:- 
+
+. Python language
+
+
+>Alogrithm:-
+
+. Passowrd length input taken
+
+. system generate random password according to password length
+
+. If password length not an integer it show message
+
 > conclusion:- 
 
 . It does show me a wide view in python's random module
@@ -23,3 +37,6 @@ Brif introduction about this project
  . It show me how to connect and link with code
 
 
+. 
+
+. 
