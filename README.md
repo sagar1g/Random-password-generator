@@ -1,6 +1,6 @@
  :closed_lock_with_key:  **RANDOM PASSWORD GENERATOR**  :unlock:
 
-- [x] __Brif introduction about this project__ :lock:
+- [x] __Brif introduction about this project__ 
 
 > **INTRODUCTION**:-
 
