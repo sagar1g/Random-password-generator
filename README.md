@@ -39,7 +39,7 @@ id1{{random password generator}}
 
  - It show me how to connect and link with code
  
- ![otp](https://www.joydeepdeb.com/images/password-generator.jpg)
+ ![otp](https://cdn-images-1.medium.com/fit/t/1600/480/0*NKb54QipseUId6h8)
 
 
 . 
