@@ -1,7 +1,4 @@
-```mermaid
-flowchart LR
-id1{{  random password generator  }}
-```
+ :lock_with_key: **RANDOM PASSWORD GENERATOR** :unlock:
 
 - [x] __Brif introduction about this project__ :lock:
 
