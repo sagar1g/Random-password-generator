@@ -1,9 +1,9 @@
 ```mermaid
 flowchart LR
-id1{{ :lock: random password generator :unlock: }}
+id1{{  random password generator  }}
 ```
 
-- [x] __Brif introduction about this project__
+- [x] __Brif introduction about this project__ :lock:
 
 > **INTRODUCTION**:-
 
