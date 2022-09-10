@@ -3,7 +3,7 @@ flowchart LR
 id1{{random password generator}}
 ```
 
-Brif introduction about this project
+- [x] __Brif introduction about this project__
 
 > **INTRODUCTION**:-
 
