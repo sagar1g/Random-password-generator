@@ -35,6 +35,8 @@ Brif introduction about this project
 . It does show me a wide view in python's random module
 
  . It show me how to connect and link with code
+ 
+ ![otp](https://miro.medium.com/max/875/1*KDUWoSI8R4I4VKTgHtSacQ.png)
 
 
 . 
