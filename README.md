@@ -4,11 +4,11 @@
 - [x] __Brif introduction about this project__ 
 
 
-> **INTRODUCTION**:-
+# INTRODUCTION:-
 
  It is show the personlize of random password generator
  
- > **Working**:- 
+ # Working:- 
 
 - First user have  to put password length or have to describe a perfect password length
 
@@ -19,12 +19,12 @@
 - if some how put a character then system not gonna provide you password
 
 
-> **Dependencies**:- 
+ # Dependencies:- 
 
 - [x] Python language
 
 
->**Alogrithm**:-
+# Alogrithm:-
 
 - [ ] From user length of password will be taken 
 
@@ -32,7 +32,7 @@
 
 - [ ] If password length is  not an integer it show message
 
-> **conclusion**:- 
+# conclusion:- 
 
 - It does show me a wide view in python's random module
 
